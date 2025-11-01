@@ -23,9 +23,8 @@ This folder contains hands-on experiments for classification tasks, including:
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
 - TensorFlow (optional)  
-- Jupyter Notebook / JupyterLab
+- ipykernel / Jupyter Notebooks
 
-> Note: This project does not require any "uv" project initialization (e.g., `uv init`) or installing packages like `uv sync`. Follow the Python/virtual environment instructions below.
 
 ## 🚀 Quick start
 1. Clone the repo:
