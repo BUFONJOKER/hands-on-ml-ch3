@@ -14,3 +14,6 @@ wheels/
 
 # add dataset folder
 dataset/
+
+# add pdf files
+*.pdf
